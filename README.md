@@ -53,7 +53,3 @@ curl -i http://localhost:8080/
 
 * **First request:** Will trigger a `[CACHE MISS]` and fetch data from the original server.
 * **Subsequent requests:** Will trigger a `[CACHE HIT]` and load data directly from the local cache.
-
----
-
-انسخ هذا المحتوى، أنشئ ملفاً جديداً في مشروعك باسم `README.md`، ألصقه فيه، ثم قم بعمل Commit و Push وسيزين صفحة مشروعك على جيت هب بشكل رائع!
