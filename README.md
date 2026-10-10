@@ -1,4 +1,4 @@
-
+##
 # Caching Proxy Server in Python
 
 A lightweight and modular **Caching Proxy Server** built from scratch using Python's built-in `http.server` and `http.client` libraries. This project acts as an intermediary between a client and an original server, caching responses to improve retrieval speed and reduce redundant network requests.
